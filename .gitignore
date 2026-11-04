@@ -1,0 +1,6 @@
+.pio-core/
+epd_stripes/.pio/
+epd_stripes/src/secrets.h
+epd_stripes/*.bak*
+.DS_Store
+.vscode/
